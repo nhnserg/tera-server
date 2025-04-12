@@ -9,8 +9,8 @@ const options = {
     },
     servers: [
       {
-        // url: 'https://teramebli-api-1.onrender.com',
-        url: 'http://localhost:3005',
+        url: 'https://tera-server.onrender.com',
+        // url: 'http://localhost:3005',
       },
     ],
   },
