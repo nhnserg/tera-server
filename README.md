@@ -1,1 +1,1 @@
-# tera-server
+# tm-server
